@@ -1,1 +1,0 @@
-# -MNRSR-for-wildlife-image
