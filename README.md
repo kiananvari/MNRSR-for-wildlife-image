@@ -30,7 +30,7 @@ This Repository contains the following:
 
 3 - Result
 
-new results are saved as a CSV file after each run
+New results are saved as a CSV file after each run
 
 
 ## Documentation
