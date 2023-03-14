@@ -38,7 +38,7 @@ You can see the description of the article and the implementation method in the 
 [Click Here](https://github.com/kiananvari/MNRSR-for-wildlife-image/raw/main/Documentation.pdf)
 
 
-## Result
+## Results
 
 ![App Screenshot](https://raw.githubusercontent.com/kiananvari/MNRSR-for-wildlife-image/main/Results/1.png)
 
