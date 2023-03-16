@@ -10,7 +10,7 @@ Paper link: https://link.springer.com/article/10.1007/s11042-022-13247-7
 
 ## Features
 
-- Python impelentation
+- Python
 - Pytorch
 - Sparse error constraint representation
 - Dictionary learning
