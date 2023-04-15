@@ -35,7 +35,8 @@ New results are saved as a CSV file after each run
 
 ## Documentation
 You can see the description of the article and the implementation method in the following file:
-[Click Here](https://github.com/kiananvari/MNRSR-for-wildlife-image/raw/main/Documentation.pdf)
+[Ducumentation](https://github.com/kiananvari/MNRSR-for-wildlife-image/raw/main/Documentation.pdf)
+[Presentation](https://github.com/kiananvari/MNRSR-for-wildlife-image/raw/main/Presentation.pdf)
 
 
 ## Results
